@@ -37,16 +37,16 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. BLAST sequence searches] | [e.g. Run and interpret nucleotide and protein searches independently] |
-| [Skill / Tool] | [What you can do] |
+| NCBI Search | Execute searches using the database and acquire information for further use |
+| BLAST Sequence Searches | Run searches and interpret E-values |
+| R Studio | Run scripts for data analysis and utilize R standalone for statistics analysis |
 | [Skill / Tool] | [What you can do] |
 
 ## Beginner / Basic Exposure
 
 _Skills I have used in a guided setting and would need support to apply independently._
 
-| Skill / Tool | Level of experience |
+| Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. Command-line navigation] | [e.g. Can run provided commands; not yet writing my own] |
-| [Skill / Tool] | [Your experience] |
+| Clusta Omega | Execute searches to specified parameters |
 | [Skill / Tool] | [Your experience] |
