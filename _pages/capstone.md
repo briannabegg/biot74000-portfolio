@@ -30,9 +30,7 @@ author_profile: true
 
 ## My Capstone Project
 
-[In 2–4 sentences, describe your capstone project for a general reader. What
-question or problem does it address? Why does it matter? Avoid program-specific
-jargon.]
+The investigation my group and I addressed for our capstone project was an insight into the diversity observed between culturable soil microbes from Ontario agricultural samples in comparison to Yukon wild lands. 
 
 ## The Bioinformatics Component
 
