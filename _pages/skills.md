@@ -48,5 +48,5 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| Clusta Omega | Execute searches to specified parameters |
+| Clustal Omega | Execute searches to specified parameters |
 | [Skill / Tool] | [Your experience] |
