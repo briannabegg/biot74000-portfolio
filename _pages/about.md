@@ -29,7 +29,7 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **Brianna Begg**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm **Brianna Begg Wensink**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College, graduating at the end of August 2026.
 
 My primary industry experience comes from my time as an analytical chemistry instrumentalist within environmental science, and through my education I have gained additional work experience in molecular biology, cell culture, microbiology, food science, and biopharmaceutical extraction and formulation. 
